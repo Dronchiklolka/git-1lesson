@@ -1,0 +1,12 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    text-align: center;
+    width: 100% auto;
+}
+
+img{
+    width: 500px;
+}
