@@ -11,6 +11,7 @@ img{
     width: 500px;
 }
 
+<<<<<<< HEAD
 footer{
     font-size: 40px;
     border: 2px solid black;
@@ -18,4 +19,9 @@ footer{
 
 li{
     display: 
+=======
+p{
+    font-size: 24px;
+    color: chartreuse; 
+>>>>>>> first_branch
 }
